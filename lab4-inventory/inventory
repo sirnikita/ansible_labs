@@ -1,0 +1,16 @@
+[inventory]
+
+[servers]
+localhost
+
+[eos]
+veos-pod-05.localdomain
+
+[nxos]
+n9k-standalone-05.localdomain
+
+[routers]
+csr1000v-pod-05.localdomain
+
+[junos]
+vsrx-pod-05.localdomain
